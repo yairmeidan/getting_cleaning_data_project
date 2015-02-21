@@ -14,7 +14,7 @@ This repo includes only a single R script, called run_analysis.R. A detailed des
 5.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. This data set can be found in this repo.
 
 # Important Notes
-•	The data must be downloaded and unzipped before running the script.
-•	The working directory must have a sub-directory named "UCI HAR Dataset", containing all the files (with the original names and structure).
-•	Here is the link from which to download the data:
+* The data must be downloaded and unzipped before running the script.
+* The working directory must have a sub-directory named "UCI HAR Dataset", containing all the files (with the original names and structure).
+* Here is the link from which to download the data:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
