@@ -193,3 +193,6 @@ agg_wide<-agg_wide[order(agg_wide$activity_description,agg_wide$subject),]
 
 ## create txt file for submission
 write.table(x=agg_wide, file="averages_wide_format.txt", row.name=FALSE )
+
+## print the output: tidy aggregation by activity and subject
+agg_wide
